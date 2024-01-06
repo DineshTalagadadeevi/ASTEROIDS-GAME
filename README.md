@@ -21,7 +21,7 @@ Random:
 Random library is used to generate random numbers, where these are used to generate the asteroids in random
 directions and spawn the stars, alien-ships randomly during the game.
 
-CONCLUSION
+CONCLUSION:
 The game revolves around inputs that the programmer provides. When I was writing the
 code, I experimented with different inputs by changing the values and image directions.
 It fundamentally alters the nature of the game. When you look at the code, you can see
